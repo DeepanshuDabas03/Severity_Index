@@ -18,6 +18,8 @@
 <h2>Usage</h2>
 
 <p>To use this project, clone the repository and follow the instructions in the README file. You will need Python and several data science libraries installed on your machine.</p>
-
+<h2> Project Reports And Presentations</h2>
+<li><strong>Reports </strong> can be found on <a href="https://github.com/DeepanshuDabas03/Severity_Index/blob/main/Reports/Mid_Term_Report.pdf "> Mid </a> </li>
+<li><strong>Presentations </strong> cab be found on <a href="https://github.com/DeepanshuDabas03/Severity_Index/blob/main/Presentations/MidPresentation.pdf"> Mid </a></li>
 
 <p>Please note that this project is for educational purposes and should not be used as a substitute for professional advice or services related to road safety or accident prediction.</p>
