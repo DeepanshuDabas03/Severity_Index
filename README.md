@@ -1,4 +1,4 @@
-<h1>Road Accident Severity Index Prediction - Monsoon 2023</h1>
+<h1>Traffic Severity Index Prediction - Monsoon 2023</h1>
 
 <h2>Project Description</h2>
 
