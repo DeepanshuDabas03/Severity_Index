@@ -60,3 +60,9 @@
 ## License
 
 <p>Please note that this project is for educational purposes and should not be used as a substitute for professional advice or services related to road safety or accident prediction.</p>
+
+### Contributors 
+
+<a href="https://github.com/DeepanshuDabas03/Severity_Index/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=DeepanshuDabas03/Severity_Index" />
+</a>
