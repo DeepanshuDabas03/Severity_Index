@@ -53,8 +53,9 @@
 
 9. **Logistic Regression**: A statistical model used to model a binary dependent variable.</p>
 <h2> Project Reports And Presentations</h2>
-<li><strong>Reports </strong> can be found on <a href="https://github.com/DeepanshuDabas03/Severity_Index/blob/main/Reports/Mid_Term_Report.pdf "> Mid </a> </li>
-<li><strong>Presentations </strong> cab be found on <a href="https://github.com/DeepanshuDabas03/Severity_Index/blob/main/Presentations/MidPresentation.pdf"> Mid </a></li>
+<li><strong>Reports </strong> can be found on <a href="https://github.com/DeepanshuDabas03/Severity_Index/blob/main/Reports/Mid_Term_Report.pdf "> Mid </a> , <a href="https://github.com/DeepanshuDabas03/Severity_Index/blob/main/Reports/Final_Report.pdf"> Final </a> </li>
+<li><strong>Presentations </strong> cab be found on <a href="https://github.com/DeepanshuDabas03/Severity_Index/blob/main/Presentations/MidPresentation.pdf"> Mid </a>,
+<a href="https://github.com/DeepanshuDabas03/Severity_Index/blob/main/Presentations/FinalPresentation.pdf"> Final </a></li>
 
 ## License
 
