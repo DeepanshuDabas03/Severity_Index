@@ -2,9 +2,9 @@
 
 <h2>Project Description</h2>
 
-<p>This repository contains the code and resources for the "Road Accident Severity Index Prediction" project, conducted during the Monsoon semester of 2023.</p>
+<p>This repository contains the code and resources for the "Road Accident Severity Index Prediction" Project, conducted during the Monsoon semester of 2023.</p>
 
-<p>The goal of this project is to predict the severity of road accidents based on various factors such as weather conditions, road conditions, time of day, and more. This is particularly relevant during the monsoon season, where weather conditions can significantly impact road safety.</p>
+<p>The goal of this project is to predict the severity of traffic based on various factors such as weather conditions, road conditions, time of day, and more. This is particularly relevant during the monsoon season, where weather conditions can significantly impact road safety.</p>
 
 <h2>Features</h2>
 
